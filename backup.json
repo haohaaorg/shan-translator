@@ -1,0 +1,2707 @@
+[
+    {
+        "keyword": "condition",
+        "english": "What's going on?",
+        "shan": "လွင်ႈတၢင်းမၼ်းမီးၸိူင်ႉႁိူဝ်လႃႇဢေႉ"
+    },
+    {
+        "keyword": "shout",
+        "english": "Hey",
+        "shan": "ဝေႉ"
+    },
+    {
+        "keyword": "name",
+        "english": "What is your name?",
+        "shan": "ၸိုဝ်ႈသူဝႃႈသင်"
+    },
+    {
+        "keyword": "who",
+        "english": "Who are you?",
+        "shan": "သူပဵၼ်ၽႂ်"
+    },
+    {
+        "keyword": "condition",
+        "english": "What are you doing?",
+        "shan": "ႁိတ်းသင်လႃႇဢေႉ"
+    },
+    {
+        "keyword": "what",
+        "english": "What?",
+        "shan": "ဢီႈသင်"
+    },
+    {
+        "keyword": "why",
+        "english": "Why?",
+        "shan": "ပဵၼ်သင်လႄႈ"
+    },
+    {
+        "keyword": "testing",
+        "english": "testing",
+        "shan": "ၸၢမ်းတူၺ်း"
+    },
+    {
+        "keyword": "test",
+        "english": "test",
+        "shan": "ၸၢမ်း"
+    },
+    {
+        "keyword": "lol",
+        "english": "lol",
+        "shan": "ႁႁ"
+    },
+    {
+        "keyword": "suck",
+        "english": "it sucks",
+        "shan": "ဢမ်ႇလႆႈသႆႉဢေႉ"
+    },
+    {
+        "keyword": "beautiful",
+        "english": "beautiful",
+        "shan": "ႁၢင်ႈလီၼႃႇ"
+    },
+    {
+        "keyword": "cute",
+        "english": "cute",
+        "shan": "လီႁၵ်ႉတေႉတေႉ"
+    },
+    {
+        "keyword": "love",
+        "english": "love",
+        "shan": "တၢင်းႁၵ်ႉ"
+    },
+    {
+        "keyword": "areyousingle",
+        "english": "Are you single?",
+        "shan": "သူမီးၸူႉယူႁႃႉ"
+    },
+    {
+        "keyword": "marry",
+        "english": "Are you married?",
+        "shan": "သူတႄႇၼႃႈႁိူၼ်းယဝ်ႉႁႃႉ"
+    },
+    {
+        "keyword": "baby",
+        "english": "baby",
+        "shan": "လုၵ်ႈဢွၼ်ႇ"
+    },
+    {
+        "keyword": "good",
+        "english": "good",
+        "shan": "ၶႅမ်ႉတေႉ"
+    },
+    {
+        "keyword": "no",
+        "english": "no",
+        "shan": "ဢမ်ႇၸႂ်ႈ"
+    },
+    {
+        "keyword": "imgood",
+        "english": "I am good",
+        "shan": "ယူႇလီယူႇ"
+    },
+    {
+        "keyword": "imfine",
+        "english": "I am fine",
+        "shan": "ယူႇလီယူႇ"
+    },
+    {
+        "keyword": "understand",
+        "english": "Do you understand?",
+        "shan": "ၸွင်ႇပွင်ႇၸႂ်"
+    },
+    {
+        "keyword": "understand",
+        "english": "understand",
+        "shan": "ပွင်ႇၸႂ်"
+    },
+    {
+        "keyword": "bye",
+        "english": "bye bye",
+        "shan": "မွၼ်းမွၼ်းၼႃႉ"
+    },
+    {
+        "keyword": "imsorry",
+        "english": "I am sorry",
+        "shan": "ၸႂ်ဢမ်ႇလီတေႉ"
+    },
+    {
+        "keyword": "sorry",
+        "english": "sorry",
+        "shan": "ၸႂ်ဢမ်ႇလီ"
+    },
+    {
+        "keyword": "happy",
+        "english": "happy",
+        "shan": "ၸူမ်း"
+    },
+    {
+        "keyword": "happyholi",
+        "english": "Happy holiday",
+        "shan": "မႂ်ႇသုင်ဝၼ်းလိုဝ်ႈ"
+    },
+    {
+        "keyword": "happybirthday",
+        "english": "Happy Birthday",
+        "shan": "မႂ်ႇသုင်ဝၼ်းၵိူတ်ႇ"
+    },
+    {
+        "keyword": "comeon",
+        "english": "Come on",
+        "shan": "ဢဝ်ထႅင်ႈလႄႈ"
+    },
+    {
+        "keyword": "how",
+        "english": "How",
+        "shan": "ၸိူင်ႉႁိုဝ်"
+    },
+    {
+        "keyword": "job",
+        "english": "job",
+        "shan": "ၵၢၼ်"
+    },
+    {
+        "keyword": "where",
+        "english": "Where",
+        "shan": "တီႈလႂ်"
+    },
+    {
+        "keyword": "no",
+        "english": "No I'm not",
+        "shan": "ဢမ်ႇၸႂ်ႈႁဝ်းႁဵတ်း"
+    },
+    {
+        "keyword": "yes",
+        "english": "Yes",
+        "shan": "ၸႂ်ႈဢိူဝ်ႈ"
+    },
+    {
+        "keyword": "help",
+        "english": "help",
+        "shan": "ၸွႆႈ"
+    },
+    {
+        "keyword": "help",
+        "english": "help me",
+        "shan": "ၸွႆႈႁဝ်းလႄႈ"
+    },
+    {
+        "keyword": "whattime",
+        "english": "What time is it?",
+        "shan": "ၶၢဝ်းလႆယဝ်ႉ"
+    },
+    {
+        "keyword": "whichone",
+        "english": "Which one?",
+        "shan": "ဢၼ်လႆ"
+    },
+    {
+        "keyword": "thisone",
+        "english": "This one",
+        "shan": "ဢၼ်ၼႆႉ"
+    },
+    {
+        "keyword": "thatone",
+        "english": "that one",
+        "shan": "ဢၼ်ၼၼ်ႉ"
+    },
+    {
+        "keyword": "live",
+        "english": "where do you live?",
+        "shan": "သူယူႇတီႈလႆ"
+    },
+    {
+        "keyword": "wherenow",
+        "english": "Where are you now?",
+        "shan": "တေႃႈလဵဝ်သူမီးတီႈလႆ"
+    },
+    {
+        "keyword": "whereru",
+        "english": "Where are you?",
+        "shan": "သူမီးတီႈလႆ"
+    },
+    {
+        "keyword": "horrible",
+        "english": "It's horrible",
+        "shan": "ထူၼ်ႈယဝ်ႉဢေႉ"
+    },
+    {
+        "keyword": "verynice",
+        "english": "very nice",
+        "shan": "ၶႅမ်ႉတေႉ"
+    },
+    {
+        "keyword": "good",
+        "english": "very good",
+        "shan": "ၶႅမ်ႉတေႉ"
+    },
+    {
+        "keyword": "notbad",
+        "english": "Not bad",
+        "shan": "ဢမ်ႇႁၢင်ႈႁၢႆႉၼင်ၵဝ်"
+    },
+    {
+        "keyword": "socool",
+        "english": "So cool",
+        "shan": "ၵျတေႉမႃႈ"
+    },
+    {
+        "keyword": "damn",
+        "english": "damn",
+        "shan": "သမ်ႉၵူၺ်းလႃႈ"
+    },
+    {
+        "keyword": "weback",
+        "english": "we will be back",
+        "shan": "ႁဝ်းတေမႃးၶိုၼ်းလႆ"
+    },
+    {
+        "keyword": "iback",
+        "english": "I'll be back",
+        "shan": "ႁဝ်းတေမႃးၶိုၼ်းလႆ"
+    },
+    {
+        "keyword": "whatashame",
+        "english": "what a shame",
+        "shan": "တႃႉလီဢၢႆလႃႈ"
+    },
+    {
+        "keyword": "definitely",
+        "english": "definitely",
+        "shan": "မႅၼ်ႈယဝ်ႉ"
+    },
+    {
+        "keyword": "iloveyou",
+        "english": "I love you",
+        "shan": "ႁဝ်းႁၵ်ႉသူ"
+    },
+    {
+        "keyword": "come",
+        "english": "come",
+        "shan": "မႃး"
+    },
+    {
+        "keyword": "go",
+        "english": "go",
+        "shan": "ၵႂႃႇ"
+    },
+    {
+        "keyword": "sohappy",
+        "english": "I'm so happy",
+        "shan": "ၵျေႃႇၸႂ်တေႉ"
+    },
+    {
+        "keyword": "hate",
+        "english": "hate",
+        "shan": "ၸင်း"
+    },
+    {
+        "keyword": "busy",
+        "english": "Are you busy?",
+        "shan": "ၵၢၼ်သုၵ်ႉယူႇႁ"
+    },
+    {
+        "keyword": "free",
+        "english": "Are you free?",
+        "shan": "ၵျွင်ႇသူတၼ်း"
+    },
+    {
+        "keyword": "free",
+        "english": "free",
+        "shan": "ဢၼ်လၢႆ"
+    },
+    {
+        "keyword": "amazing",
+        "english": "amazing",
+        "shan": "လီဢၢမ်းတေႉ"
+    },
+    {
+        "keyword": "amazing",
+        "english": "It's amazing",
+        "shan": "လီဢၢမ်းတေႉတေႉ"
+    },
+    {
+        "keyword": "where",
+        "english": "Where have you been so long?",
+        "shan": "သူႁၢႆၵႂႃႇၶႆႈႁိုင်ဝႆႉလႃႇ"
+    },
+    {
+        "keyword": "weather",
+        "english": "What is today weather?",
+        "shan": "ၶၢဝ်ႇငၢဝ်းၾူၼ်လူမ်းမိူဝ်ႈၼႆႉမိူၼ်ႁိုဝ်ဝႆႉဢေႉ"
+    },
+    {
+        "keyword": "weather",
+        "english": "weather",
+        "shan": "ၶၢဝ်ႇငၢဝ်းၾူၼ်လူမ်း"
+    },
+    {
+        "keyword": "name",
+        "english": "Your name",
+        "shan": "ၸိုဝ်ႈသူ"
+    },
+    {
+        "keyword": "name",
+        "english": "Your father name",
+        "shan": "ၸိုဝ်ႈပေႃႈသူ"
+    },
+    {
+        "keyword": "happy",
+        "english": "Are you happy?",
+        "shan": "ၸွင်ႇသူၸူမ်း"
+    },
+    {
+        "keyword": "haveagoodday",
+        "english": "Have a good day",
+        "shan": "ႁႆႈပဵၼ်ဝၼ်းလီသေၵမ်း"
+    },
+    {
+        "keyword": "haveaniceday",
+        "english": "Have a nice day",
+        "shan": "ႁႆႈပဵၼ်ဝၼ်းလီသေၵမ်း"
+    },
+    {
+        "keyword": "hihellow",
+        "english": "Hi/Hello/What’s up?",
+        "shan": "မႂ်ႇသုင်ၶႃႈ"
+    },
+    {
+        "keyword": "goodmorni",
+        "english": "good morning",
+        "shan": "မႂ်ႇသုင်ၵၢင်ၼႂ်ၶႃႈ"
+    },
+    {
+        "keyword": "goodafter",
+        "english": "good afternoon",
+        "shan": "မႂ်ႇသုင်ၵၢင်ဝၼ်းၶႃႈ"
+    },
+    {
+        "keyword": "haveaswe",
+        "english": "Have a sweet dream",
+        "shan": "ႁႂ်ႈၾၼ်လီသေၵမ်း"
+    },
+    {
+        "keyword": "howareyo",
+        "english": "How are you?",
+        "shan": "ယူႇလီယူႇႁႃႉ"
+    },
+    {
+        "keyword": "iamfine",
+        "english": "I am fine",
+        "shan": "ယူႇလီယူႇ"
+    },
+    {
+        "keyword": "iamnotv",
+        "english": "I am not very well.",
+        "shan": "ဢမ်ႇေပႃးယူႇလီၶႃႈ"
+    },
+    {
+        "keyword": "whatisyo",
+        "english": "What is your name?",
+        "shan": "ၸိုဝ်ႈသူဝႃႈႁိုဝ်?"
+    },
+    {
+        "keyword": "mynameis",
+        "english": "My name is",
+        "shan": "ၸိုဝ်ႈႁဝ်းႁွင်ႉ"
+    },
+    {
+        "keyword": "seeyoula",
+        "english": "See you later",
+        "shan": "ၸင်ႇၵွႆႈထူပ်းၵၼ်ၼႃ"
+    },
+    {
+        "keyword": "byebye",
+        "english": "Bye bye",
+        "shan": "မွၼ်းမွၼ်းၶႃႈ"
+    },
+    {
+        "keyword": "whatabout",
+        "english": "What about you?",
+        "shan": "သူလူး"
+    },
+    {
+        "keyword": "goodluck",
+        "english": "Good luck",
+        "shan": "ႁႂ်ႈသုၼ်ႇလီသေၵမ်းၶႃႈ(ႁႂ်ႈၵၢမ်ႇလီသေၵမ်းၶႃႈ)"
+    },
+    {
+        "keyword": "takecare",
+        "english": "Take care",
+        "shan": "လွႆးလွႆးၼႃႈ"
+    },
+    {
+        "keyword": "canyousp",
+        "english": "Can you speak English?",
+        "shan": "ၸွင်ႇသူမေႃလၢတ်ႈၵႂၢမ်းဢၢင်းၵိတ်ႉ"
+    },
+    {
+        "keyword": "ican’tsp",
+        "english": "I can’t speak English",
+        "shan": "ႁဝ်းဢမ်ႇမေႃလၢတ်ႈၵႂၢမ်းဢၢင်းၵိတ်ႉ"
+    },
+    {
+        "keyword": "မႃး\ticome",
+        "english": "မႃး\tI come from",
+        "shan": "ႁဝ်းလုၵ်ႉမိူင်း"
+    },
+    {
+        "keyword": "howoldar",
+        "english": "How old are you?",
+        "shan": "ဢႃႇယုသူမီးၵႃႈႁိုဝ်ယဝ်ႉ"
+    },
+    {
+        "keyword": "iamthirt",
+        "english": "I am thirty years old",
+        "shan": "ႁဝ်းမီးသၢမ်သိပ်းယဝ်ႉ"
+    },
+    {
+        "keyword": "wheredoy",
+        "english": "Where do you live?",
+        "shan": "သူယူႇတီႈလႂ်"
+    },
+    {
+        "keyword": "ilivein",
+        "english": "I live in",
+        "shan": "ယူႇၶႃႈ"
+    },
+    {
+        "keyword": "doyouliv",
+        "english": "Do you live in?",
+        "shan": "ယူႇႁႃႉ?"
+    },
+    {
+        "keyword": "no,iamn",
+        "english": "No, I am not",
+        "shan": "ဢမ်ႇၸႂ်ႈၶႃႈ"
+    },
+    {
+        "keyword": "ilivein",
+        "english": "I live in",
+        "shan": "ယူႇဢေႃႈ"
+    },
+    {
+        "keyword": "whenisit",
+        "english": "When is it?",
+        "shan": "မိူဝ်ႈလႂ်ၶႃႈ"
+    },
+    {
+        "keyword": "who?",
+        "english": "Who?",
+        "shan": "ၽႂ်ၶႃႈ"
+    },
+    {
+        "keyword": "whathappe",
+        "english": "What happen?",
+        "shan": "ပဵၼ်သင်ၶႃႈ"
+    },
+    {
+        "keyword": "howmuch?",
+        "english": "How much?",
+        "shan": "ၵႃႈႁိုဝ်ၶႃႈ"
+    },
+    {
+        "keyword": "howmany?",
+        "english": "How many?",
+        "shan": "မီးမွၵ်ႈၵႃႈႁိုဝ်ၶႃႈ"
+    },
+    {
+        "keyword": "why?",
+        "english": "Why?",
+        "shan": "ယွၼ်ႉသင်ၶႃႈ"
+    },
+    {
+        "keyword": "whynot?",
+        "english": "Why not?",
+        "shan": "ယွၼ်ႉသင်ဢမ်ႇၶႃႈ"
+    },
+    {
+        "keyword": "whichone?",
+        "english": "Which one?",
+        "shan": "ဢမ်ႇလႆႈၶႃႈ"
+    },
+    {
+        "keyword": "whereisi",
+        "english": "Where is it?",
+        "shan": "တီႈလႂ်ၶႃႈ"
+    },
+    {
+        "keyword": "whenisbirthday",
+        "english": "When is your birthday?",
+        "shan": "ဝၼ်းၵိူတ်ႇသူမိူဝ်ႈလႂ်ၶႃႈ"
+    },
+    {
+        "keyword": "whatarey",
+        "english": "What are you doing now?",
+        "shan": "မိူဝ်ႈလဵဝ်သူႁဵတ်းသင်ဝႆႉ?"
+    },
+    {
+        "keyword": "whatdoyo",
+        "english": "What do you do?",
+        "shan": "သူႁဵတ်းသင်?"
+    },
+    {
+        "keyword": "whatisth",
+        "english": "What is this?",
+        "shan": "ဢၼ်ၼႆႉပဵၼ်သင်?"
+    },
+    {
+        "keyword": "really?",
+        "english": "Really?",
+        "shan": "ၸႂ်ႈတေႉႁႃႉ?"
+    },
+    {
+        "keyword": "definitely",
+        "english": "Definitely",
+        "shan": "မႅၼ်ႈယဝ်ႉ"
+    },
+    {
+        "keyword": "notreally",
+        "english": "Not really",
+        "shan": "ဢမ်ႇၸႂ်ႈေတႉေတႉၼင်ႇၵဝ်ႇ"
+    },
+    {
+        "keyword": "don’ttake",
+        "english": "Don’t take that one?",
+        "shan": "ယႃႇဢဝ်ဢၼ်ၼၼ်ႉ"
+    },
+    {
+        "keyword": "don'ttake",
+        "english": "Don't take this one?",
+        "shan": "ယႃႇဢဝ်ဢၼ်ၼႆႉ"
+    },
+    {
+        "keyword": "this",
+        "english": "this that",
+        "shan": "ဢၼ်ၼႆႉ"
+    },
+    {
+        "keyword": "that",
+        "english": "that",
+        "shan": "ဢၼ်ၼၼ်ႉ"
+    },
+    {
+        "keyword": "breakfast",
+        "english": "Breakfast",
+        "shan": "ၶဝ်ႈၼႂ်"
+    },
+    {
+        "keyword": "lunch",
+        "english": "Lunch",
+        "shan": "ၶဝ်ႈဝၼ်း"
+    },
+    {
+        "keyword": "dinner",
+        "english": "Dinner",
+        "shan": "ၶဝ်ႈၶမ်ႈ"
+    },
+    {
+        "keyword": "thaifood",
+        "english": "Thai food",
+        "shan": "တၢင်းၵိၼ်ထႆး"
+    },
+    {
+        "keyword": "japanfood",
+        "english": "Japan food",
+        "shan": "တၢင်းၵိၼ်ၵျႃႇပၢၼ်ႇ"
+    },
+    {
+        "keyword": "chinesefo",
+        "english": "Chinese food",
+        "shan": "တၢင်းၵိၼ်ၶႄႇ"
+    },
+    {
+        "keyword": "meat",
+        "english": "Meat",
+        "shan": "ၼိူဝ်ႉ"
+    },
+    {
+        "keyword": "(ၽၵ်းလႅင်)",
+        "english": "(ၽၵ်းလႅင်)\tBeaf",
+        "shan": "ၼိူဝ်ႉလႅင်"
+    },
+    {
+        "keyword": "chicken",
+        "english": "Chicken",
+        "shan": "ၼိူဝ်ႉၵႆႇ"
+    },
+    {
+        "keyword": "(ၽၵ်းၽိူၵ်",
+        "english": "(ၽၵ်းၽိူၵ်ႇ)\tPock",
+        "shan": "ၼိူဝ်ႉမူ"
+    },
+    {
+        "keyword": "seafood",
+        "english": "Sea food",
+        "shan": "တၢင်းၵိၼ်ပၢင်ႇလၢႆႇ"
+    },
+    {
+        "keyword": "fish",
+        "english": "Fish",
+        "shan": "ပႃ"
+    },
+    {
+        "keyword": "prawn",
+        "english": "Prawn",
+        "shan": "ၵုင်ႈ"
+    },
+    {
+        "keyword": "rice",
+        "english": "Rice",
+        "shan": "ၶဝ်ႈ"
+    },
+    {
+        "keyword": "spoon",
+        "english": "Spoon",
+        "shan": "ၸေႃႉ"
+    },
+    {
+        "keyword": "knife",
+        "english": "Knife",
+        "shan": "မိတ်ႈ"
+    },
+    {
+        "keyword": "chop-stick",
+        "english": "Chop-Sticks",
+        "shan": "ထူႇ"
+    },
+    {
+        "keyword": "plate",
+        "english": "Plate",
+        "shan": "ဝၢၼ်ႇ"
+    },
+    {
+        "keyword": "napkin",
+        "english": "Napkin",
+        "shan": "ၽႅၼ်ႇၸဵတ်ႉ"
+    },
+    {
+        "keyword": "iamhungr",
+        "english": "I am hungry",
+        "shan": "ႁဝ်းတွင်ႉမႆႈယဝ်ႉ"
+    },
+    {
+        "keyword": "iamfull.",
+        "english": "I am full.",
+        "shan": "ႁဝ်းပေႃႈယဝ်ႉ"
+    },
+    {
+        "keyword": "delicious",
+        "english": "Delicious",
+        "shan": "ၵိၼ်ဝၢၼ်ေတႉယဝ်ႉ"
+    },
+    {
+        "keyword": "iliketha",
+        "english": "I like Thai food",
+        "shan": "ႁဝ်းမၵ်ႉတၢင်းၵိၼ်ထႆး(ႁဝ်းလႆႈၸႂ်တၢင်းၵိၼ်ထႆး)"
+    },
+    {
+        "keyword": "spicy",
+        "english": "Spicy",
+        "shan": "ၽဵတ်း"
+    },
+    {
+        "keyword": "sweet",
+        "english": "Sweet",
+        "shan": "ၸဵမ်း"
+    },
+    {
+        "keyword": "turnright",
+        "english": "Turn right",
+        "shan": "ငွၵ်းၽၢႆႇသၢႆႉ"
+    },
+    {
+        "keyword": "turnleft",
+        "english": "Turn left",
+        "shan": "ငွၵ်းၽၢႆႇၶႂႃ"
+    },
+    {
+        "keyword": "above",
+        "english": "Above",
+        "shan": "တၢင်းၼိူဝ်"
+    },
+    {
+        "keyword": "below",
+        "english": "Below",
+        "shan": "တၢင်းတႂ်ႈ"
+    },
+    {
+        "keyword": "up",
+        "english": "Up",
+        "shan": "ၶိုၼ်ႈ"
+    },
+    {
+        "keyword": "down",
+        "english": "Down",
+        "shan": "လူင်း"
+    },
+    {
+        "keyword": "gostraigh",
+        "english": "Go straight",
+        "shan": "ၵႂႃႇသိုဝ်ႈသိုဝ်ႈ"
+    },
+    {
+        "keyword": "right",
+        "english": "Right",
+        "shan": "သၢႆႉ"
+    },
+    {
+        "keyword": "left",
+        "english": "Left",
+        "shan": "ၶႂႃ"
+    },
+    {
+        "keyword": "front",
+        "english": "Front",
+        "shan": "တၢင်းၼႃႈ"
+    },
+    {
+        "keyword": "back",
+        "english": "Back",
+        "shan": "တၢင်းလင်"
+    },
+    {
+        "keyword": "opposite",
+        "english": "Opposite",
+        "shan": "သၢၼ်ၶတ်း"
+    },
+    {
+        "keyword": "accrossth",
+        "english": "Accross the road",
+        "shan": "ၶၢမ်ႈတၢင်း"
+    },
+    {
+        "keyword": "walkfor5",
+        "english": "Walk for 5 minutes",
+        "shan": "ပႆၵႂႃႇမွၵ်ႈႁႃႈမဵတ်ႉ/ပႆတၢင်းႁႃႈမဵတ်ႉ"
+    },
+    {
+        "keyword": "takeataxi",
+        "english": "Take a taxi",
+        "shan": "ႁိမ်လူတ်ႉၸၢင်ႈ"
+    },
+    {
+        "keyword": "taxi",
+        "english": "Taxi",
+        "shan": "လူတ်ႉၸၢင်ႈ"
+    },
+    {
+        "keyword": "howfaris",
+        "english": "How far is it?",
+        "shan": "ၵႆမွၵ်ႈၵႃႈႁိုဝ်"
+    },
+    {
+        "keyword": "whereist",
+        "english": "Where is Toilet",
+        "shan": "ထၢင်(ႁွင်ႈၼမ်ႉ)မီးတၢင်းလႂ်"
+    },
+    {
+        "keyword": "toiletres",
+        "english": "Toilet Restroom",
+        "shan": "ထၢင်(ႁွင်ႈၼမ်ႉ)"
+    },
+    {
+        "keyword": "bathroom",
+        "english": "Bathroom",
+        "shan": "ႁွင်ႈဢၢပ်ႇၼမ်ႉ"
+    },
+    {
+        "keyword": "kitchen",
+        "english": "Kitchen",
+        "shan": "သိုင်ႇၾႆး"
+    },
+    {
+        "keyword": "school",
+        "english": "School",
+        "shan": "ႁူင်းႁဵၼ်း"
+    },
+    {
+        "keyword": "hotel",
+        "english": "Hotel",
+        "shan": "ႁူင်းလိုဝ်ႈသဝ်း(ႁူင်းလႅမ်း)"
+    },
+    {
+        "keyword": "localmark",
+        "english": "Local Market",
+        "shan": "ၵၢတ်ႇ"
+    },
+    {
+        "keyword": "monastery",
+        "english": "Monastery",
+        "shan": "ဝတ်ႉ"
+    },
+    {
+        "keyword": "house",
+        "english": "House",
+        "shan": "ႁိူၼ်း"
+    },
+    {
+        "keyword": "far",
+        "english": "Far",
+        "shan": "ၵႆ"
+    },
+    {
+        "keyword": "near",
+        "english": "Near",
+        "shan": "ၸမ်"
+    },
+    {
+        "keyword": "hospital",
+        "english": "Hospital",
+        "shan": "ႁူင်းယႃ"
+    },
+    {
+        "keyword": "yes",
+        "english": "Yes",
+        "shan": "ၸႂ်ႈၶႃႈဢေႃႈ"
+    },
+    {
+        "keyword": "no",
+        "english": "No",
+        "shan": "ဢမ်ႇၸႂ်ႈၶႃႈ"
+    },
+    {
+        "keyword": "doyouund",
+        "english": "Do you understand?",
+        "shan": "ၸွင်ႇပွင်ႇၸႂ်ၶႃႈ?(ပွင်ႇၸႂ်ယူႇၶႃႈႁႃႉ?)"
+    },
+    {
+        "keyword": "idon’tun",
+        "english": "I don’t understand",
+        "shan": "ဢမ်ႇပွင်ႇၸႂ်ၶႃႈ"
+    },
+    {
+        "keyword": "yes,iund",
+        "english": "Yes, I understand",
+        "shan": "ပွင်ႇၸႂ်ယူႇၶႃႈ"
+    },
+    {
+        "keyword": "thankyou",
+        "english": "Thank you",
+        "shan": "ၸူမ်းယဝ်ႉၶႃႈ"
+    },
+    {
+        "keyword": "pardonme",
+        "english": "Pardon me",
+        "shan": "ၶႂၢင်းပၼ်ဢိတ်းၼိုင်ႈၶႃႈ(ၶႂၢင်ႉပၼ်ၶႃႈ)"
+    },
+    {
+        "keyword": "couldyou",
+        "english": "Could you tell me again?",
+        "shan": "လၢတ်ႈၶိုၼ်းထႅင်ႈၵမ်းၼိုင်ႈၸွင်ႇလႆႈၶႃႈ"
+    },
+    {
+        "keyword": "couldyou",
+        "english": "Could you speak slowly?",
+        "shan": "လၢတ်ႈပၼ်လွႆးလွႆးဢိတ်းၼိုင်ႈၶႃႈ"
+    },
+    {
+        "keyword": "congratula",
+        "english": "Congratulation",
+        "shan": "လီၸႂ်တေႉၶႃႈ"
+    },
+    {
+        "keyword": "iamsorry",
+        "english": "I am sorry",
+        "shan": "ၸႂ်ဢမ်ႇလီတေႉၶႃႈ"
+    },
+    {
+        "keyword": "itdoesn’t",
+        "english": "It doesn’t matter",
+        "shan": "ဢမ်ႇပဵၼ်သင်ၶႃႈ"
+    },
+    {
+        "keyword": "idon'tkn",
+        "english": "I don't know",
+        "shan": "ႁဝ်းဢမ်ႇႁူႉ"
+    },
+    {
+        "keyword": "idon'tli",
+        "english": "I don't like it",
+        "shan": "ႁဝ်းဢမ်ႇလႆႈၸႂ်/ႁဝ်းဢမ်ႇထုၵ်ႇၸႂ်/ႁဝ်းဢမ်ႇမႅၼ်ႈၸႂ်"
+    },
+    {
+        "keyword": "irealise",
+        "english": "I realise that",
+        "shan": "ႁဝ်းပွင်ႇၸႂ်ဝႃႈ"
+    },
+    {
+        "keyword": "ithinkth",
+        "english": "I think that",
+        "shan": "ႁဝ်းထၢင်ႇတေႉ"
+    },
+    {
+        "keyword": "iwant",
+        "english": "I want",
+        "shan": "ႁဝ်းၶႂ်ႈ"
+    },
+    {
+        "keyword": "iprefer",
+        "english": "I prefer",
+        "shan": "ႁဝ်းသူၼ်ၸႂ်"
+    },
+    {
+        "keyword": "caniuse",
+        "english": "Can I use your phone?",
+        "shan": "ႁဝ်းၸႂ်ႉၾူၼ်း(phone)သူၵမ်းၼိုင်ႈၸွင်ႇလႆႈ"
+    },
+    {
+        "keyword": "really?",
+        "english": "Really?",
+        "shan": "ၸႂ်ႈတေႉႁႃႉ?"
+    },
+    {
+        "keyword": "noproblem",
+        "english": "No problem",
+        "shan": "ဢမ်ႇမီးပၼ်ႁႃသင်ၶႃႈ"
+    },
+    {
+        "keyword": "helpme",
+        "english": "Help me",
+        "shan": "ၸွႆႈဢိတ်းၼိုင်ႈ"
+    },
+    {
+        "keyword": "one",
+        "english": "One",
+        "shan": "ၼိုင်ႈ"
+    },
+    {
+        "keyword": "two",
+        "english": "Two",
+        "shan": "သွင်"
+    },
+    {
+        "keyword": "three",
+        "english": "Three",
+        "shan": "သၢမ်"
+    },
+    {
+        "keyword": "four",
+        "english": "Four",
+        "shan": "သီႇ"
+    },
+    {
+        "keyword": "five",
+        "english": "Five",
+        "shan": "ႁႃႈ"
+    },
+    {
+        "keyword": "six",
+        "english": "Six",
+        "shan": "ႁူၵ်း"
+    },
+    {
+        "keyword": "seven",
+        "english": "Seven",
+        "shan": "ၸဵတ်း"
+    },
+    {
+        "keyword": "eight",
+        "english": "Eight",
+        "shan": "ပႅတ်ႇ"
+    },
+    {
+        "keyword": "nine",
+        "english": "Nine",
+        "shan": "ၵဝ်ႈ"
+    },
+    {
+        "keyword": "ten",
+        "english": "Ten",
+        "shan": "သိပ်း"
+    },
+    {
+        "keyword": "eleven",
+        "english": "Eleven",
+        "shan": "သိပ်းဢဵတ်း"
+    },
+    {
+        "keyword": "twelve",
+        "english": "Twelve",
+        "shan": "သိပ်းသွင်"
+    },
+    {
+        "keyword": "thirteen",
+        "english": "Thirteen",
+        "shan": "သိပ်းသၢမ်"
+    },
+    {
+        "keyword": "twenty",
+        "english": "Twenty",
+        "shan": "သၢဝ်း(ႁႃႈတွင်ႇ)"
+    },
+    {
+        "keyword": "thirty",
+        "english": "Thirty",
+        "shan": "သၢမ်သိပ်း(သၢမ်ၶၼ်)"
+    },
+    {
+        "keyword": "sixty,ni",
+        "english": "Sixty , Ninety",
+        "shan": "ႁူၵ်းသိပ်း/ၵဝ်ႈသိပ်း(ႁူၵ်းၶၼ်/ၵဝ်ႈၶၼ်)"
+    },
+    {
+        "keyword": "onehundre",
+        "english": "One hundred",
+        "shan": "ၼိုင်ႈပၢၵ်ႇ(ၼိုင်ႈၸွႆႉ)"
+    },
+    {
+        "keyword": "fivehundr",
+        "english": "Five hundred , Two hundred",
+        "shan": "ႁႃႈပၢၵ်ႇ/သွင်ပၢၵ်ႇ(ၼိုင်ႈၵူမ်း)"
+    },
+    {
+        "keyword": "onethousa",
+        "english": "One thousand",
+        "shan": "ၼိုင်ႈႁဵင်"
+    },
+    {
+        "keyword": "tenthousa",
+        "english": "Ten thousand",
+        "shan": "ၼိုင်ႈမိုၼ်ႇ"
+    },
+    {
+        "keyword": "onelakh",
+        "english": "One lakh",
+        "shan": "ၼိုင်ႈသႅၼ်"
+    },
+    {
+        "keyword": "onemillio",
+        "english": "One million",
+        "shan": "ၼိုင်ႈလၢၼ်ႉ"
+    },
+    {
+        "keyword": "justone",
+        "english": "Just one",
+        "shan": "ၼိုင်ႈဢၼ်ၵူၺ်းၶႃႈ"
+    },
+    {
+        "keyword": "zero",
+        "english": "Zero",
+        "shan": "သုၼ်(တူဝ်ႉၼပ်ႉ)"
+    },
+    {
+        "keyword": "twentyite",
+        "english": "Twenty items",
+        "shan": "သၢဝ်းဢၼ်ၶႃႈ"
+    },
+    {
+        "keyword": "giveforty",
+        "english": "Give forty",
+        "shan": "ပၼ်သီႇသိပ်းၶႃႈ(ပၼ်သီႇၶၼ်ၶႃႈ)"
+    },
+    {
+        "keyword": "whatdoyo",
+        "english": "What do you prefer?",
+        "shan": "သူလႆႈၸႂ်သင်?"
+    },
+    {
+        "keyword": "whitecolo",
+        "english": "White color",
+        "shan": "သီၶၢဝ်"
+    },
+    {
+        "keyword": "blackcolo",
+        "english": "Black color",
+        "shan": "သီလမ်"
+    },
+    {
+        "keyword": "redcolor",
+        "english": "Red color",
+        "shan": "သီလႅင်"
+    },
+    {
+        "keyword": "greencolo",
+        "english": "Green color",
+        "shan": "သီၶဵဝ်"
+    },
+    {
+        "keyword": "ilikegra",
+        "english": "I like gray color",
+        "shan": "ႁဝ်းလႆႈၸႂ်သီၵမ်ႇ"
+    },
+    {
+        "keyword": "ilikered",
+        "english": "I like Red color",
+        "shan": "ႁဝ်းလႆႈၸႂ်သီလႅင်"
+    },
+    {
+        "keyword": "whatkind",
+        "english": "What kind of food do you like?",
+        "shan": "သူမၵ်ႉ(လႆႈၸႂ်)တၢင်းၵိၼ်သင်?"
+    },
+    {
+        "keyword": "ilikesha",
+        "english": "I like Shan food",
+        "shan": "ႁဝ်းမၵ်ႉတၢင်းၵိၼ်တႆးၶႃႈ"
+    },
+    {
+        "keyword": "whatisyo",
+        "english": "What is your favorite singer?",
+        "shan": "သူထုၵ်ႇၸႂ်ၽူႈႁွင်ႉၵႂၢမ်းလႂ်?"
+    },
+    {
+        "keyword": "singer",
+        "english": "singer",
+        "shan": "ၽူႈႁွင်ႉၵႂၢမ်း"
+    },
+    {
+        "keyword": "adele\tili",
+        "english": "Adele\tI like Adele",
+        "shan": "ႁဝ်းထုၵ်ႇၸႂ်"
+    },
+    {
+        "keyword": "whatisyo",
+        "english": "What is your favorite bicycle?",
+        "shan": "သူလႆႈၸႂ်လူတ်ႉထိပ်ႇလႂ်?"
+    },
+    {
+        "keyword": "bicycle",
+        "english": "bicycle",
+        "shan": "လူတ်ႉထိပ်ႇ"
+    },
+    {
+        "keyword": "လႅင်လႅင်ၼၼ",
+        "english": "လႅင်လႅင်ၼၼ်ႉ\tI like the red one(bicycle).",
+        "shan": "ႁဝ်းလႆႈၸႂ်လူတ်ႉထိပ်ႇ"
+    },
+    {
+        "keyword": "whatisyo",
+        "english": "What is your favorite book?",
+        "shan": "သူလႆႈၸႂ်ပပ်ႉလႂ်?"
+    },
+    {
+        "keyword": "book",
+        "english": "book",
+        "shan": "ပပ်ႉ"
+    },
+    {
+        "keyword": "ilikethe",
+        "english": "I like the white one(book).",
+        "shan": "ႁဝ်းလႆႈၸႂ်ပပ်ႉၶၢဝ်ၼၼ်ႉ"
+    },
+    {
+        "keyword": "whatisyo",
+        "english": "What is your favorite movie?",
+        "shan": "သူလႆႈၸႂ်ၸိူင်းၸိူင်ႉႁိုဝ်"
+    },
+    {
+        "keyword": "ilikeam",
+        "english": "I like a motivative movie.",
+        "shan": "ႁဝ်းလႆႈၸႂ်ၸိူင်းပၼ်ႁႅင်းၸႂ်"
+    },
+    {
+        "keyword": "motivate",
+        "english": "motivate",
+        "shan": "ပၼ်ႁႅင်းၸႂ်"
+    },
+    {
+        "keyword": "areyouha",
+        "english": "Are you happy?",
+        "shan": "ၸွင်ႇသူၵေျႃႇ"
+    },
+    {
+        "keyword": "doyoulik",
+        "english": "Do you like?",
+        "shan": "ၸွင်ႇသူလႆႈၸႂ်"
+    },
+    {
+        "keyword": "whatisyo",
+        "english": "What is your favorite song?",
+        "shan": "သူလႆႈၸႂ်ၽဵင်းၸိူင်ႉႁိုဝ်"
+    },
+    {
+        "keyword": "ilikepop",
+        "english": "I like pop songs",
+        "shan": "ႁဝ်းလႆႈၸႂ်/ၽဵင်းၵႂၢမ်းလွႆးလွႆး"
+    },
+    {
+        "keyword": "whatdoyo",
+        "english": "What do you want?",
+        "shan": "သူၶႂ်ႈလႆႈသင်?"
+    },
+    {
+        "keyword": "doyouhav",
+        "english": "Do you have a girlfriend/boyfriend?",
+        "shan": "သူမီးၸူႉယဝ်ႈႁႃႉ"
+    },
+    {
+        "keyword": "areyouen",
+        "english": "Are you engaged?",
+        "shan": "သူမီးေၵႃႉမၵ်းမၢႆယဝ်ႉႁႃႉ"
+    },
+    {
+        "keyword": "youareso",
+        "english": "You are so beautiful",
+        "shan": "သူၼႆႉႁၢင်ႈလီေတႉယဝ်ႈ"
+    },
+    {
+        "keyword": "youaresm",
+        "english": "You are smart looking good.",
+        "shan": "သူၼႆႉလီတူၺ်းေတႉယဝ်ႈ"
+    },
+    {
+        "keyword": "areyousi",
+        "english": "Are you single married?",
+        "shan": "သူတႄႇၼႃႈႁိူၼ်းယဝ်ႉၶႃႈႁႃႉ"
+    },
+    {
+        "keyword": "wedon’tk",
+        "english": "We don’t know each other",
+        "shan": "ႁဝ်းဢမ်ႇႁူႉၸၵ်းၵၼ်"
+    },
+    {
+        "keyword": "iloveyou",
+        "english": "I love you",
+        "shan": "ႁဝ်းႁၵ်ႉသူ"
+    },
+    {
+        "keyword": "iloveyouso",
+        "english": "I love you so much",
+        "shan": "ႁဝ်းႁၵ်ႉသူတေႉတေႉ"
+    },
+    {
+        "keyword": "heischea",
+        "english": "He is cheating on you",
+        "shan": "မၼ်းလႅၼ်သူဢိူဝ်ႈ"
+    },
+    {
+        "keyword": "don'ttrus",
+        "english": "Don't trust easily",
+        "shan": "ယႃႇယုမ်ႇငၢႆႈလႄႈ"
+    },
+    {
+        "keyword": "forgiveme",
+        "english": "Forgive me",
+        "shan": "ၶႂၢင်းပၼ်ႁဝ်းဢိတ်းၼိုင်ႈ"
+    },
+    {
+        "keyword": "trustme",
+        "english": "Trust me",
+        "shan": "ယုမ်ႇႁဝ်းလႄႈ"
+    },
+    {
+        "keyword": "verycute",
+        "english": "Very cute",
+        "shan": "လီႁၵ်ႉေတႉေတႉ"
+    },
+    {
+        "keyword": "thiskidi",
+        "english": "This kid is very cute.",
+        "shan": "လုၵ်ႈဢွၼ်ႇၼႆႉလီႁၵ်ႉေတႉေတႉယဝ်ႈ"
+    },
+    {
+        "keyword": "amazing",
+        "english": "Amazing",
+        "shan": "လီဢၢမ်းေတႉေတႉယဝ်ႉ"
+    },
+    {
+        "keyword": "iamspeec",
+        "english": "I am speechless",
+        "shan": "ႁဝ်းဢမ်ႇၶႆႈလၢတ်ႈသင်ယဝ်ႉ"
+    },
+    {
+        "keyword": "don'tcome",
+        "english": "Don't come back to me",
+        "shan": "ယႃႇေပႁူၼ်လင်ၶိုၼ်းမႃးၸူးႁဝ်း"
+    },
+    {
+        "keyword": "don'tcry",
+        "english": "Don't cry",
+        "shan": "ယႃႇေပႁႆႈလႄႈ"
+    },
+    {
+        "keyword": "ifeelso",
+        "english": "I feel so sad",
+        "shan": "ႁဝ်းၸႂ်လဵၵ်ႉေတႉယဝ်ႉ"
+    },
+    {
+        "keyword": "thisisso",
+        "english": "This is so annoying",
+        "shan": "ဢၼ်ၼႆႉသုၵ်ႉသၵ်ႉေတႉယဝ်ႉ"
+    },
+    {
+        "keyword": "howmanym",
+        "english": "How many members are there in your family?",
+        "shan": "ပီႈၼွင်ႉသူမီးလၢႆေၵႃႉ"
+    },
+    {
+        "keyword": "parent",
+        "english": "Parent",
+        "shan": "ေပႃႈမႄႈ"
+    },
+    {
+        "keyword": "father",
+        "english": "Father",
+        "shan": "ေပႃႈ"
+    },
+    {
+        "keyword": "mother",
+        "english": "Mother",
+        "shan": "မႄႈ"
+    },
+    {
+        "keyword": "brother",
+        "english": "Brother",
+        "shan": "ပီႈဢၢႆႈ"
+    },
+    {
+        "keyword": "sister",
+        "english": "Sister",
+        "shan": "ပီႈၼၢင်း"
+    },
+    {
+        "keyword": "littlesis",
+        "english": "Little sister",
+        "shan": "ၼွင်ႉယိင်း"
+    },
+    {
+        "keyword": "littlebro",
+        "english": "Little brother",
+        "shan": "ၼွင်ႉၸၢႆး"
+    },
+    {
+        "keyword": "niece",
+        "english": "Niece",
+        "shan": "လၢၼ်ယိင်း"
+    },
+    {
+        "keyword": "nephew",
+        "english": "Nephew",
+        "shan": "လၢၼ်ၸၢႆး"
+    },
+    {
+        "keyword": "cousinbro",
+        "english": "Cousin brother",
+        "shan": "ၼွင်ႉယိင်းၶႅၼ်ႈတွင်ႉ"
+    },
+    {
+        "keyword": "cousinsis",
+        "english": "Cousin sister",
+        "shan": "ၼွင်ႉၸၢႆးၶႅၼ်ႈတွင်ႉ"
+    },
+    {
+        "keyword": "aunt",
+        "english": "Aunt",
+        "shan": "ပႃႈ"
+    },
+    {
+        "keyword": "uncle",
+        "english": "Uncle",
+        "shan": "လုင်း"
+    },
+    {
+        "keyword": "grandma",
+        "english": "Grandma",
+        "shan": "ၼၢႆး"
+    },
+    {
+        "keyword": "grandpa",
+        "english": "Grandpa",
+        "shan": "ၶိင်း"
+    },
+    {
+        "keyword": "kids",
+        "english": "Kids",
+        "shan": "လုၵ်ႈဢွၼ်ႇ"
+    },
+    {
+        "keyword": "adult",
+        "english": "Adult",
+        "shan": "ၵူၼ်းၼုမ်ႇ"
+    },
+    {
+        "keyword": "elders",
+        "english": "Elders",
+        "shan": "ၵူၼ်းထဝ်ႈ"
+    },
+    {
+        "keyword": "howoldis",
+        "english": "How old is your elder brother?",
+        "shan": "ဢႃႇယုပီႈဢၢႆႈသူမီးၵႃႈႁိုဝ်ယဝ်ႉ"
+    },
+    {
+        "keyword": "isyourun",
+        "english": "Is your Uncle here?",
+        "shan": "လုင်းသူၸွင်မီးတီႈၼႆႈ"
+    },
+    {
+        "keyword": "mysister",
+        "english": "My sister went to school",
+        "shan": "ပီႈၼၢင်းႁဝ်းၵႂႃႇႁူင်းႁဵၼ်းယဝ်ႉၶႃႈ"
+    },
+    {
+        "keyword": "suchacute",
+        "english": "Such a cute girl",
+        "shan": "သၢဝ်ဢွၼ်ၼႆႉလီႁၵ်ႉတေႉမေႃး"
+    },
+    {
+        "keyword": "angry",
+        "english": "Are you angry?",
+        "shan": "ၸွင်ႇသူၸႂ်လမ်"
+    },
+    {
+        "keyword": "imexcited",
+        "english": "I'm so excited",
+        "shan": "ႁဝ်းၸႂ်တွတ်ႇတေႉယဝ်ႉ"
+    },
+    {
+        "keyword": "feelbad",
+        "english": "I feel bad",
+        "shan": "ႁဝ်းၸႂ်ဢမ်ပေႃးလီ"
+    },
+    {
+        "keyword": "areyoucrazy",
+        "english": "Are you cazy?",
+        "shan": "သူယွင်ႇယဝ်ႈႁႃႉ"
+    },
+    {
+        "keyword": "where'sth",
+        "english": "where's the nearest parking garage",
+        "shan": "တီႈဝႆႉၵႃးဢၼ်ၸမ်သေပိူၼ်ႈမူတ်းၼၼ်ႉမီးတီႈလႆ"
+    },
+    {
+        "keyword": "theneares",
+        "english": "The nearest parking garage is Dish Parking at 550 Alester Ave. Would you like directions there? ",
+        "shan": "တီႈဝႆႉၵႃးတီႈၸမ်သုတ်းၼၼ်ႉပဵၼ် Dish သေ မီးတီႈ 550 Alester Ave. ၸွင်ၶႆႈႁုတၢင်းၵႂႃႇမၼ်း?"
+    },
+    {
+        "keyword": "whereist",
+        "english": "Where is the nearest gas station?",
+        "shan": "သႅင်ႇၼမ်ႉမၼ်းဢၼ်ၸမ်သေပိူၼ်ႈသုတ်းၼၼ်ႉမီးတီႈလႆ?"
+    },
+    {
+        "keyword": "thereisa",
+        "english": "There is a 76 4 miles away.",
+        "shan": "ၸိုဝ်ႈမၼ်းဝႃႈ 76 မၼ်း၊ ၵႆမႂၵ်ႈ  4 လၵ်း"
+    },
+    {
+        "keyword": "showmeth",
+        "english": "show me the closest location where i can get chinese food",
+        "shan": "သႅင်ႇၶႄႇဢၼ်ၸမ်သေပိူၼ်ႈသုတ်းၼၼ်ႉမီးတီႈလႂ်?"
+    },
+    {
+        "keyword": "thecloses",
+        "english": "The closest chinese restaurant is PF Changs, located 5 miles away. ",
+        "shan": "သႅင်ႇၶႄႇဢၼ်ၸမ်သေပိူၼ်ႈသုတ်းၼၼ်ႉၸိုဝ်ႈမၼ်းဝႃႈ PF Changs သေ၊ တိုၵ်ႉၵႆမွၵ်ႈ 5 လၵ်းယူႇ"
+    },
+    {
+        "keyword": "hi,please",
+        "english": "Hi, please set up a reminder for my dinner on the 11th at 4pm with my sister. Thanks!",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "set!have",
+        "english": "Set! Have a good time",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whattime",
+        "english": "What time is dinner and who is it with?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "dinneris",
+        "english": "Dinner is at 7 pm with Jon.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "scheduled",
+        "english": "schedule dentist appointment",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whenisyo",
+        "english": "when is your dentist appointment",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "checkfore",
+        "english": "check forecast for new york",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "theweathe",
+        "english": "The weather this week will be hail and rain on Thursday and Sunday, with the lowest temperature being 20F and the highest 90F, Monday will be the only hot day. ",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "willitbe",
+        "english": "Will it be warm in Camarillo over the next 2 days?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "no,it'sn",
+        "english": "No, it's not gonna be warm in Camarillo over the next 2 days",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "what'sthe",
+        "english": "what's the highest temperature for this week",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatlocat",
+        "english": "What location do you want to know the highest temperature?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "willthere",
+        "english": "Will there be hail in Mountain View today?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "therewill",
+        "english": "There will be clear skies today in Mountain View.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "willthew",
+        "english": "Will the weather be warm in Menlo Park on Sunday?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "thehighes",
+        "english": "The highest temperature on sunday is 30F in menlo park",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatisth",
+        "english": "what is the weather like today and tomorrow",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatcity",
+        "english": "What city would you like the 2 day forecast for?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "getmedir",
+        "english": "get me directions to the nearest shopping mall",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "theneares",
+        "english": "The nearest shopping mall is Stanford Shopping Center. It's located 3 miles away and there is no traffic to reach it",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "remindme",
+        "english": "remind me that i have a meeting at work on the 12th at 5 pm in conference room 100",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "okaysetti",
+        "english": "Okay setting a reminder for you work meeting, on the 12th at 5 pm, in conference room 100.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whereare",
+        "english": "where are the nearest coffee shops",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "thenearby",
+        "english": "The nearby coffee shops are Teavana which is 6 miles away, and Peets coffee which is 3 miles away.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatisth",
+        "english": "What is the date of football and who is coming?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "youhavef",
+        "english": "You have four football activities scheduled; one on the 5th with John, on the 10th with Marie, one on the 16th with Alex, and one on Monday with father. ",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "willitbe",
+        "english": "Will it be stormy in Redwood City on Wednesday?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "no,wednes",
+        "english": "No, Wednesday it will be hot in Redwood City",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "isitgoin",
+        "english": "is it going to snow today",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatcity",
+        "english": "What city should I check for you?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatdaya",
+        "english": "What day and time is my yoga class?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "youryoga",
+        "english": "Your yoga activity is on the 3rd at 10 am.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "isthewea",
+        "english": "is the weather cloudy right now",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatlocat",
+        "english": "What location do you want the weather for?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "willthew",
+        "english": "Will the weather be hail in Alhambra during the next seven days?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "thereshou",
+        "english": "There shouldn't be any hail during the next seven days in Alhambra",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "schedulea",
+        "english": "Schedule a yoga activity with Tom on the 8th at 2pm.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "okay,sche",
+        "english": "Okay, scheduling a yoga activity with Tom for the 8th at 2pm.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "ineedto",
+        "english": "I need to find the shortest route to the hospital.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "sorryita",
+        "english": "Sorry it appears the nearest hospital is 8 miles away. Palo Alto Medical Foundation is located at 611 Ames Ave with heavy traffic noted. ",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "givemeth",
+        "english": "give me the closest fast food restaurant",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "idonoth",
+        "english": "I do not have a listing for any fast food places but i do have a pizza restaurant that is 3 miles away. Would you like more info on it?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatisth",
+        "english": "What is the date of my Nextt dentist appointment and who will be attending it?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "yournext",
+        "english": "Your next dentist appointment is on the 2nd with sister. ",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "isitgoin",
+        "english": "is it going to rain at all this upcoming week",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatcity",
+        "english": "What city shall I check for rain?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "istherea",
+        "english": "Is there a nearby rest stop?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "hotelkeen",
+        "english": "Hotel Keen and The Westin are both nearby.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "givemeth",
+        "english": "Give me the address of the nearest shopping center to me, with the fastest route to it",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "stanfords",
+        "english": "Stanford Shopping Center is 2 miles away at 773 Alger Dr.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatisth",
+        "english": "what is the weather like today in tomorrow",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatcity",
+        "english": "What city are you inquiring about?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "tellmeth",
+        "english": "tell me the time of today's meeting",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "themeetin",
+        "english": "the meeting is at 7pm ",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "findmea",
+        "english": "Find me a gas station that I can get to the quickest without any traffic",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "theneares",
+        "english": "The nearest gas station is located at 91 El Camino Real, but there is a roadblock nearby.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "wheredoes",
+        "english": "Where does my friend live?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "tom'shous",
+        "english": "Tom's house is 6 miles away at 580 Van Ness Avenue. ",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "showmetr",
+        "english": "show me traffic for going home",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "thereisn",
+        "english": "There is no traffic listed going to 10 Ames Street. ",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "willitbe",
+        "english": "Will it be dry in Fresno on Sunday?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "no,onsun",
+        "english": "No, on Sunday in Fresno there will be a blizzard.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "cari'mde",
+        "english": "Car I'm desiring to have pizza: is there any restaurant within 2 miles?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "ihaveap",
+        "english": "I have a pizza restaurant located 1 mile away.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "searchhot",
+        "english": "search hotels near me",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "thecomfor",
+        "english": "The Comfort Inn is the only rest stop nearby. It is 6 miles away and there is a car collision nearby",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "setaremi",
+        "english": "set a reminder for my conference call tomorrow",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whattime",
+        "english": "What time should I set a reminder for tomorrow's conference call?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "takemeto",
+        "english": "take me to the parking garage closest to my destination",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "thecloses",
+        "english": "The closest parking garage is \tPalo Alto Garage R which is only 2 miles away, but there is a road block in the area. ",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "wherecan",
+        "english": "where can i get coffee",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "thereisp",
+        "english": "There is Palo Alto Cafe 2 miles away or, if you prefer, Philz 6 miles away",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "schedulem",
+        "english": "Schedule meeting. ",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatdetai",
+        "english": "What details shall I add to your meeting reminder?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatisth",
+        "english": "what is the weather like in new york city",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatwould",
+        "english": "What would you like to know about the weather in new york?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "canyoufi",
+        "english": "Can you find me the fastest route to a pizza restaurant?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "thepizza",
+        "english": "The Pizza Hut is located 5 miles away in heavy traffic, and Papa Johns is 6 miles away in moderate traffic. Which of these would you prefer?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "ihaveam",
+        "english": "i have a meeting tomorrow at 5 pm remind me 10 minutes before hand and attach my agenda to the calendar at 3",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "ihavesch",
+        "english": "I have scheduled a meeting for tomorrow at 5 pm. I will remind you at 4:50 pm and attach your agenda. ",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "doesthef",
+        "english": "does the forecast say it will snow",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatcity",
+        "english": "What city do you want to know the snow forecast for?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "ireallyn",
+        "english": "I really need to have an appointment scheduled for tennis on the 7th at 11 am.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "iamsched",
+        "english": "I am scheduling tennis on the 7th at 11 am. ",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "where'sth",
+        "english": "where's the closest place to park",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "thecloses",
+        "english": "The closest parking garage is 4 miles away. Would you like the address and name of it?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "ineedto",
+        "english": "I need to find a shopping center. ",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "thestanfo",
+        "english": "The Stanford Shopping Center at 773 Alger Dr is 3 miles away in no traffic. Would you like directions there?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "isitrain",
+        "english": "Is it raining today in Grand Rapids?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "itisnot",
+        "english": "It is not raining today in Grand Rapids.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whenismy",
+        "english": "When is my football activity and who is going with me?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "youhave3",
+        "english": "You have 3 football activities lined up. 2pm on Monday with Tom, 1pm on Monday with your dad, and on Sunday at 1pm with your mother",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "findouti",
+        "english": "find out if it's supposed to rain",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "wherewoul",
+        "english": "Where would you like to know about the forecast for rain?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatgroce",
+        "english": "What grocery stores are here?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "thereisa",
+        "english": "There is a Safeway 4 miles away.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "i'minpai",
+        "english": "i'm in pain navigate me to the nearest hospital",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "ihavetwo",
+        "english": "I have two hospitals located 1 mile away. Which one would you like to know about?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "searchfor",
+        "english": "search for nearby starbucks",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "thereisn",
+        "english": "There is no Starbucks nearby.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "willitbe",
+        "english": "Will it be windy in redwood city today?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "itisnot",
+        "english": "It is not predicted to be windy today in redwood city",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "what'sthe",
+        "english": "what's the weather forecast in new york",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatinfor",
+        "english": "What information can I give you about new york's weather?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "setaremi",
+        "english": "set a reminder",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whenshoul",
+        "english": "when should I set this reminder and what for?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whendoi",
+        "english": "when do i have dinner planned for",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "yourdinne",
+        "english": "Your dinner is at 5 pm Monday.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "setaremi",
+        "english": "Set a reminder for a lab appointment at 6 pm on Sunday, August 8th with sister. ",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "okay,sche",
+        "english": "Okay, scheduling a lab appointment with your sister for Sunday, August 8th at 6pm.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "inthenex",
+        "english": "In the next 48 hours will it rain in alhambra?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "justalit",
+        "english": "Just a little: the weather in Alhambra will be drizzle today and overcast tomorrow",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatisth",
+        "english": "what is the forecast in my city",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatcity",
+        "english": "What city do you want the weather for?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatisth",
+        "english": "what is the weather next week",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatcity",
+        "english": "What city are you wanting to know the weather for?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "setaremi",
+        "english": "Set a reminder that I have football at 1pm next Wednesday with Martha ",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "ihavesch",
+        "english": "I have scheduled football at 1pm next Wednesday with Martha",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatisth",
+        "english": "What is the date and time of my doctor appointment?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "youhavet",
+        "english": "You have two doctor appointments scheduled. One on Wednesday at 6pm and the other on Thursday at 9am.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "ontuesday",
+        "english": "On tuesday in san mateo find out if it will be warm",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "itwillbe",
+        "english": "It will be hot in san mateo, tuesday's forecast predicts the high temperature will reach 100F",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "findouti",
+        "english": "Find out immediately the location, time, and date for my meeting. ",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "forwhich",
+        "english": "For which one? I have one in conference room 100 at 10am on Friday, and one in Conference room 50 at 10 am on Saturday.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "willitbe",
+        "english": "Will it be windy in Durham this week?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "theforeca",
+        "english": "The forecast does not predict any windy days this week in Durham",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whattime",
+        "english": "what time is my swimming scheduled for",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "yourswimm",
+        "english": "Your swimming activity is scheduled for Thursday at 3PM.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "givemedi",
+        "english": "give me directions to the nearest shopping center",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "theneares",
+        "english": "The nearest shopping mall is Midtown Shopping Center, it's 4 miles away",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "willthere",
+        "english": "Will there be dew in Brentwood this week?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "thereisn",
+        "english": "There is no dew in the forecast for Brentwood this week. ",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whattime",
+        "english": "What time and date is my lab appointment?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "youhavet",
+        "english": "You have three lab appointments scheduled. The first is on the 5th at 4pm, the next is on the 10th at 11am, and the last is on the 19th at 11am.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "givemeth",
+        "english": "give me the forecast for the next 7 days",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatcity",
+        "english": "What city would you like to hear the 7 day forecast for?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whenismy",
+        "english": "when is my next meeting",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "yournext",
+        "english": "Your next meeting is friday at 1 pm.",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "givemedi",
+        "english": "give me directions to the nearest grocery store",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "thereist",
+        "english": "There is Trader Joes 5 miles away: would you like to get more info?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "checkthe",
+        "english": "check the weather for the 7 day forecast",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "whatcity",
+        "english": "What city are you interested in?",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "pleasegiv",
+        "english": "Please give me the address and directions via the quickest route to a hospital around me. ",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "stanforde",
+        "english": "Stanford Express Care hospital at 214 El Camino Real is there 3 miles away through moderate traffic",
+        "shan": "nodata"
+    },
+    {
+        "keyword": "noway",
+        "english": "no way",
+        "shan": "ဢမ်ႇပဵၼ်လႆႈသေဢိတ်း"
+    },
+    {
+        "keyword": "todayismonday",
+        "english": "Today is Monday",
+        "shan": "မိူဝ်ႈၼႆႉပဵၼ်ဝၼ်းၸၼ်"
+    },
+    {
+        "keyword": "todayistuesday",
+        "english": "Today is Tuesday",
+        "shan": "မိူဝ်ႈၼႆႉပဵၼ်ဝၼ်းဢၢင်းၵၢၼ်းဢိူဝ်ႈ"
+    },
+    {
+        "keyword": "todayiswednesday",
+        "english": "Today is Wednesday",
+        "shan": "မိူဝ်ႈၼႆႉပဵၼ်ဝၼ်းဢၢင်းပုတ်ႉဢိူဝ်ႈ"
+    },
+    {
+        "keyword": "todayisthursday",
+        "english": "Today is Thursday",
+        "shan": "မိူဝ်ႈၼႆႉပဵၼ်ဝၼ်းၽတ်းဢိူဝ်ႈ"
+    },
+    {
+        "keyword": "todayisfriday",
+        "english": "Today is Friday",
+        "shan": "မိူဝ်ႈၼႆႉပဵၼ်ဝၼ်းသုၵ်းဢိူဝ်ႈ"
+    },
+    {
+        "keyword": "todayissaturday",
+        "english": "Today is Saturday",
+        "shan": "မိူဝ်ႈၼႆႉပဵၼ်ဝၼ်းဢၢင်းသဝ်ဢိူဝ်ႈ"
+    },
+    {
+        "keyword": "todayissunday",
+        "english": "Today is Sunday",
+        "shan": "မိူဝ်ႈၼႆႉပဵၼ်ဝၼ်းဢႃးတိတ်ႉဢိူဝ်ႈ"
+    },
+    {
+        "keyword": "happyshannewyear",
+        "english": "Happy Shan New Year",
+        "shan": "မႂ်ႇသုင်ပီမႂ်ႇတႆး"
+    },
+    {
+        "keyword": "happychinesenewyear",
+        "english": "Happy Chinese New Year",
+        "shan": "မႂ်ႇသုင်ပီမႂ်ႇၶႄႇ"
+    },
+    {
+        "keyword": "nowory",
+        "english": "No wory",
+        "shan": "ယႃႇပေမႆႈၸႂ်"
+    },
+    {
+        "keyword": "everythinggonnabealr",
+        "english": "Everything gonna be alright",
+        "shan": "တေၶႅမ်ႉလႅပ်ႈၵႂႃႇၵူႈဢၼ်ယူႇ"
+    },
+    {
+        "keyword": "doesanyoneknowwhatit",
+        "english": "Does anyone know what it is?",
+        "shan": "ၸွင်ႇသ​ေၵေႃႉၵေႃႉႁူႉဢၼ်ၼႆႉပဵၼ်ဢီႈသင်"
+    },
+    {
+        "keyword": "haveyoueverbeenintau",
+        "english": "Have you ever been in Taunggyi?",
+        "shan": "ၸွင်ႇသူယၢမ်ႈၽႅဝ်တူၼ်ႈတီး?"
+    },
+    {
+        "keyword": "taunggyi",
+        "english": "Taunggyi",
+        "shan": "တူၼ်ႈတီး"
+    },
+    {
+        "keyword": "yangon",
+        "english": "Yangon",
+        "shan": "တႃႈၵုင်ႈ"
+    },
+    {
+        "keyword": "mandalay",
+        "english": "Mandalay",
+        "shan": "ဝဵင်းလိူဝ်ႈ"
+    },
+    {
+        "keyword": "howtodothis?",
+        "english": "How to do this?",
+        "shan": "ဢၼ်ၼႆႉႁဵတ်းၸိုင်ႉႁိုဝ်"
+    },
+    {
+        "keyword": "don'tbelazy",
+        "english": "Don't be lazy",
+        "shan": "ယႃႇပေၶၢၼ်ႉ"
+    },
+    {
+        "keyword": "areyouhungry?",
+        "english": "Are you hungry?",
+        "shan": "ၸွင်ႇသူတွင်ႉမႆႈ"
+    },
+    {
+        "keyword": "i'mbored",
+        "english": "I'm bored",
+        "shan": "တႃႉလီၶၢၼ်ႉလႃႈ"
+    },
+    {
+        "keyword": "howlong?",
+        "english": "How long?",
+        "shan": "ႁိုင်ၵႃႈႁိုဝ်?"
+    },
+    {
+        "keyword": "iwantiphone",
+        "english": "I want iphone",
+        "shan": "ႁဝ်းၶႆႈလႆႈ iphone"
+    },
+    {
+        "keyword": "ican'tsleep",
+        "english": "I can't sleep",
+        "shan": "ၼွၼ်းၵေႃႈဢမ်ႇလပ်း"
+    },
+    {
+        "keyword": "i'msleepy",
+        "english": "I'm sleepy",
+        "shan": "ႁဝ်းၶႆႈၼွၼ်းယဝ်ႉ"
+    },
+    {
+        "keyword": "i'dliketohaveagreent",
+        "english": "I'd like to have a green tea",
+        "shan": "ႁဝ်းၶႆႈၵိၼ်ၼမ်ႉၼဵင်ႈၶူမ်"
+    },
+    {
+        "keyword": "i'veneverbeenthere",
+        "english": "I've never been there",
+        "shan": "ဢမ်ယၢမ်ႈၽႅဝ်တီႈၼၼ်ႉသေပွၵ်ႈ"
+    },
+    {
+        "keyword": "canyouhelpme?",
+        "english": "Can you help me?",
+        "shan": "ၸွႆႈႁဝ်းၸွင်ႇလႆႈ?"
+    },
+    {
+        "keyword": "sheisveryrude",
+        "english": "She is very rude",
+        "shan": "မၼ်းလိူင်းၼႃႇ"
+    },
+    {
+        "keyword": "hurryup",
+        "english": "Hurry up",
+        "shan": "ႁဵတ်းဝႆးဝႆး"
+    },
+    {
+        "keyword": "hurryup",
+        "english": "Hurry up",
+        "shan": "ႁဵတ်းဝႆးဝႆး"
+    },
+    {
+        "keyword": "hithere",
+        "english": "Hi there",
+        "shan": "မႂ်ႇသုင်"
+    },
+    {
+        "keyword": "thereisnoplacelikesh",
+        "english": "There is no place like Shan state.",
+        "shan": "ဢၼ်မိူၼ်မိူင်းတႆးႁဝ်းၼႆႉမၼ်းဢမ်ႇမီးတီႈလႂ်"
+    },
+    {
+        "keyword": "shelookssmart",
+        "english": "She looks smart",
+        "shan": "မၼ်းလီတူၺ်းၵျ"
+    },
+    {
+        "keyword": "ihavetofinishmywork.",
+        "english": "I have to finish my work.",
+        "shan": "ႁဝ်းလူဝ်ႇယဝ်ႉၵၢၼ်ႁဝ်း"
+    },
+    {
+        "keyword": "yes",
+        "english": "yes",
+        "shan": " ေꨡꨣꨳꨁ"
+    },
+    {
+        "keyword": "nothing",
+        "english": "Nothing",
+        "shan": "ဢမ်ႇၸႂ်ႈသင်"
+    },
+    {
+        "keyword": "takeitout.",
+        "english": "Take it out.",
+        "shan": "ထွတ်ႇပႅတ်ႈၼၼ်ႉလ​ႄႈ"
+    },
+    {
+        "keyword": "haveyoueverbeenthere",
+        "english": "Have you ever been there?",
+        "shan": "ၸွင်ႇသူယၢမ်ႈၽႅဝ်တီႈၼၼ်ႈ"
+    },
+    {
+        "keyword": "turniton",
+        "english": "turn it on",
+        "shan": "ၽုၺ်ႇဢၼ်ၼၼ်ႉလ​ႄႈ"
+    },
+    {
+        "keyword": "areyouok?",
+        "english": "Are you ok?",
+        "shan": "ၸွင်ႇသူလီၸႂ်"
+    },
+    {
+        "keyword": "dowhatyouwant",
+        "english": "do what you want",
+        "shan": "တေႃႈႁဵတ်းဢၼ်သူၶႆႈႁဵတ်းလ​ႄႈ"
+    },
+    {
+        "keyword": "nevergiveup",
+        "english": "never give up",
+        "shan": "ယႃႇပေယွၼ်းသုမ်း"
+    },
+    {
+        "keyword": "takearest",
+        "english": "Take a rest",
+        "shan": "လိုဝ်ႈဢိတ်းၼိုင်ႈလ​ႄႈ"
+    },
+    {
+        "keyword": "wasitthere?",
+        "english": "was it there?",
+        "shan": "ၸွင်ႇဢၼ်ၼၼ်ႉမီးဝႆႉတီၼၼ်ႈ"
+    },
+    {
+        "keyword": "happynewyear",
+        "english": "Happy new year",
+        "shan": "မႂ်ႇသုင်ပီမႂ်ႇ"
+    },
+    {
+        "keyword": "happyshannewyear",
+        "english": "Happy Shan new year",
+        "shan": "မႂ်ႇသုင်ပီမႂ်ႇတႆး"
+    },
+    {
+        "keyword": "happytainewyear",
+        "english": "Happy Tai new year",
+        "shan": "မႂ်ႇသုင်ပီမႂ်ႇတႆး"
+    },
+    {
+        "keyword": "happychinesenewyear",
+        "english": "Happy Chinese new year",
+        "shan": "မႂ်ႇသုင်ပီမႂ်ႇၶႄႇ"
+    },
+    {
+        "keyword": "whatwouldyouliketoha",
+        "english": "What would you like to have?",
+        "shan": "ၶႆႈၵိၼ်သင်"
+    },
+    {
+        "keyword": "hangingoutwithmyfrie",
+        "english": "Hanging out with my friend",
+        "shan": "ၵႂႃႇလႄႇၸွမ်းဢူၺ်းၵေႃႉ"
+    },
+    {
+        "keyword": "whatwouldyouliketodr",
+        "english": "What would you like to drink?",
+        "shan": "ၶႆႈၵိၼ်သင်"
+    },
+    {
+        "keyword": "let'smove",
+        "english": "Let's move",
+        "shan": "မႃးႁဝ်းၵႂႃႇ"
+    },
+    {
+        "keyword": "whoisshe?",
+        "english": "Who is she?",
+        "shan": "မၼ်းၼၢင်းပဵၼ်ၽႂ်"
+    },
+    {
+        "keyword": "let'shaveacoffee",
+        "english": "Let's have a coffee",
+        "shan": "မႃးႁဝ်းၵိၼ်ၵေႃႇၽီ"
+    },
+    {
+        "keyword": "areyouintelligent?",
+        "english": "Are you intelligent?",
+        "shan": "ၸွင်သူၵတ်ႉၶႅၼ်?"
+    },
+    {
+        "keyword": "it'sok",
+        "english": "It's ok",
+        "shan": "မၼ်းၶႅမ်ႉလႅပ်ႈယူႇၵူၺ်း"
+    },
+    {
+        "keyword": "isitok?",
+        "english": "Is it Ok?",
+        "shan": "ၸွင်ႇတေၶႅမ်ႉလႅပ်ႈ"
+    },
+    {
+        "keyword": "noproblem",
+        "english": "no problem",
+        "shan": "ဢမ်ႇမီးပၼ်ႁႃသင်"
+    },
+    {
+        "keyword": "let'sgo",
+        "english": "Let's go",
+        "shan": "မႃးႁဝ်းၵႂႃႇ"
+    },
+    {
+        "keyword": "haveanicetrip",
+        "english": "Have a nice trip",
+        "shan": "ႁႂ်ႇၵႂႃႇမႃးလီသေၵမ်း"
+    },
+    {
+        "keyword": "i'mnotverywell",
+        "english": "I'm not very well",
+        "shan": "ႁဝ်းဢမ်ပေႃးၶႆႈယူႇလီဝႆႉ"
+    },
+    {
+        "keyword": "whydoyouwantthis?",
+        "english": "why do you want this?",
+        "shan": "ပဵၼ်သင်သူၶႆႈလႆႈဢၼ်ၼႆႉ"
+    },
+    {
+        "keyword": "whathappentoyou?",
+        "english": "what happen to you?",
+        "shan": "သူပဵၼ်သင်လႃႇ"
+    },
+    {
+        "keyword": "it'simpossible",
+        "english": "It's impossible",
+        "shan": " မၼ်းဢမ်ႇပဵၼ်လႆႈ"
+    },
+    {
+        "keyword": "iamwaiting",
+        "english": "I am waiting",
+        "shan": "ႁဝ်းတိုၵ်ႉပႆႉယူႇ"
+    },
+    {
+        "keyword": "haveyougotit?",
+        "english": "Have you got it?",
+        "shan": "ၸွင်ႇသူပႃႈလႆႈဢၼ်ၼၼ်ႉ"
+    },
+    {
+        "keyword": "thisissobad",
+        "english": "this is so bad",
+        "shan": "ဢမ်ႇလႆႈသႂ်ႉသေဢိတ်း"
+    },
+    {
+        "keyword": "thisisbad",
+        "english": "this is bad",
+        "shan": "ဢၼ်ၼႆႉဢမ်ႇၵျႃႉ"
+    },
+    {
+        "keyword": "haveyouevertriedit?",
+        "english": "Have you ever tried it?",
+        "shan": "ၸွင်ႇသူယၢမ်ႈၸၢမ်းတူၺ်း"
+    },
+    {
+        "keyword": "nothinglastforever",
+        "english": "Nothing last forever",
+        "shan": "ဢၼ်လႂ်ၵေႃႈမၼ်းဢမ်ႇမႅၼ်ႈၵိုမ်း"
+    },
+    {
+        "keyword": "sheissosweet",
+        "english": "She is so sweet",
+        "shan": "မၼ်းၼၢင်းမီးမွၵ်ႇၼႃႈတေႉ"
+    },
+    {
+        "keyword": "haveasweetdream",
+        "english": "have a sweet dream",
+        "shan": "ႁႂ်ႈၾၼ်လီသေၵမ်း"
+    },
+    {
+        "keyword": "aren'tyouashamed?",
+        "english": "Aren't you ashamed?",
+        "shan": "သူဢမ်ႇလီဢၢႆႁႃႉ"
+    },
+    {
+        "keyword": "canyouhearme?",
+        "english": "Can you hear me?",
+        "shan": "ၸွင်ႇလႆႈငိၼ်းသဵင်ႁဝ်း"
+    },
+    {
+        "keyword": "nooneisperfect",
+        "english": "No one is perfect",
+        "shan": "ၽူႈလႂ်ၽႂ်ၵေႃႈတိုၼ်းမီးလွင်ႈယူပ်ႈယွမ်း"
+    },
+    {
+        "keyword": "shallwedoit?",
+        "english": "Shall we do it?",
+        "shan": " ႁဝ်းဢွၼ်ၵၼ်ႁဵတ်းၼႄႇ"
+    },
+    {
+        "keyword": "waitme",
+        "english": "Wait me",
+        "shan": "ပႆႉႁဝ်းၵမ်ႉၼိုင်ႈ"
+    },
+    {
+        "keyword": "youaresosmart",
+        "english": "You are so smart",
+        "shan": " သူၵတ်ႉတေႉယဝ်ႉ"
+    },
+    {
+        "keyword": "let'sgoout",
+        "english": "Let's go out",
+        "shan": "မႃးႁဝ်းၵႂႃႇလႄႇ"
+    },
+    {
+        "keyword": "doyouknowhim?",
+        "english": "Do you know him?",
+        "shan": "ၸွင်ႇသူႁူႉၸၵ်းမၼ်း"
+    },
+    {
+        "keyword": "domeafavour",
+        "english": "Do me a favour",
+        "shan": "ၸွႆႈႁဝ်းဢၼ်ၼိုင်ႈၸွင်ႇလႆႈ"
+    },
+    {
+        "keyword": "i'llberightback",
+        "english": "I'll be right back",
+        "shan": "ႁဝ်းတေမႃးၶိုၼ်းၼႃႉ"
+    },
+    {
+        "keyword": "goodnight",
+        "english": "Goodnight",
+        "shan": "မႂ်ႇသုင်ၵၢင်ၶိုၼ်း"
+    },
+    {
+        "keyword": "goodnight",
+        "english": "Good night",
+        "shan": "မႂ်ႇသုင်ၵၢင်ၶိုၼ်း"
+    },
+    {
+        "keyword": "youhavetogo",
+        "english": "You have to go",
+        "shan": " သူတေလႆႈၵႂႃႇ"
+    },
+    {
+        "keyword": "nosmoking",
+        "english": "No smoking",
+        "shan": "ဢမ်ႇလႆႈလုတ်ႇလႅၼ်းယႃႈ"
+    },
+    {
+        "keyword": "whatdayistoday?",
+        "english": " What day is today?",
+        "shan": "မိူဝ်ႈၼႆႉပဵၼ်ဝၼ်းဝင်"
+    },
+    {
+        "keyword": "ihavenoidea",
+        "english": "I have no idea",
+        "shan": "ႁဝ်းဢမ်ႇႁူႉဢေႉ"
+    },
+    {
+        "keyword": "whoami?",
+        "english": "Who am I?",
+        "shan": "ႁဝ်းပဵၼ်ၽႂ်ၼႂ်ႁႃႉ?"
+    },
+    {
+        "keyword": "issheyourmom?",
+        "english": "is She your mom?",
+        "shan": "ၵေႃႉၼၼ်ႉပဵၼ်မ​ႄႈသူႁႃႉ?"
+    },
+    {
+        "keyword": "i'mnotafraid",
+        "english": "I'm not afraid",
+        "shan": "ႁဝ်းဢမ်ႇၵူဝ်သင်"
+    },
+    {
+        "keyword": "wherehaveyoubeen?",
+        "english": "Where have you been?",
+        "shan": "သူၽႅဝ်ယူႇတီႈလႂ်"
+    },
+    {
+        "keyword": "itwilltaketime",
+        "english": "It will take time",
+        "shan": " မၼ်းတေႁိုင်ဢိူဝ်ႈ"
+    },
+    {
+        "keyword": "believeme",
+        "english": "Believe me",
+        "shan": "ယူမ်ႇႁဝ်းလႄႈ"
+    },
+    {
+        "keyword": "woulditbepossible?",
+        "english": "Would it be possible?",
+        "shan": "ၸွင်ႇမၼ်းတေပဵၼ်လႆႈ"
+    },
+    {
+        "keyword": "couldyoutellme?",
+        "english": "Could you tell me?",
+        "shan": "လၢတ်ႈၼေႇႁဝ်းၸွင်ႇလႆႈ"
+    },
+    {
+        "keyword": "i'vebeenworkingon",
+        "english": "I've been working on",
+        "shan": "ႁဝ်းလႆႇႁဵတ်းမႃး"
+    },
+    {
+        "keyword": "madewithlove",
+        "english": "Made with love",
+        "shan": " ႁဵတ်းဝႆႉတၢင်းၼမ်ႉၸႂ်"
+    },
+    {
+        "keyword": "helloworld",
+        "english": "Hello world",
+        "shan": "မႂ်ႇသုင်လုမ်ႈၾႃႉ"
+    }
+]
