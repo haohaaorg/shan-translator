@@ -7,7 +7,7 @@ Shan translator using NLP. If the translated data doesn't exit in db, it will fi
 
 > Currenty, this project is set as a private because of some credentials.
 
-[Demo](https://shan.glitch.me/)
+[Demo](https://shantran.glitch.me/)
 
 -------
 
@@ -20,4 +20,4 @@ Shan translator using NLP. If the translated data doesn't exit in db, it will fi
 
 > တေႃႇလဵဝ်တႄႉ တိုၵ်ႉႁဵတ်းဝႆႉ private ၶႃႈ ၵွပ်ပိူဝ်ႈမၼ်းပႃး credentials (ဢၼ်လူဝ်ႇလႆႈမူၵ်းသိူင်) ၸိူဝ်းၼၼ်ႉလႄႈၶႃႈ
 
-[တီႈၸၢမ်းမၼ်း](https://shan.glitch.me/)
+[တီႈၸၢမ်းမၼ်း](https://shantran.glitch.me/)
